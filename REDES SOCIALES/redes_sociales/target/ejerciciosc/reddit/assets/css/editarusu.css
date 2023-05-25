@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  body{
+    background-color: rgb(255, 135, 48)
+  }
+  
+  .editarUsu{
+    align-items: center;
+  color: #ee0101;
+  padding-left: 10px;
+  margin-top: 50px;
+  font-size: 10px;
+  
+  }
+
+  #fname{
+    display: flex;
+    margin-left: 420px;
+    margin-top: -25px;
+  }
+
